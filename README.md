@@ -1,7 +1,7 @@
 # Beograd
 CAD Podloge za cranje - Grad Beograd
 
-Podloge mape su preuzete sa openstreetmap koriscenjem zvanicnog api-ja. OSM mape su otvorene pod ODbL licencom. Iz tog razloga ih je dozvoljeno distribuirati uz citiranje izvora.
+Podloge mape su preuzete sa openstreetmap koriscenjem zvanicnog api-ja u novembru 2017. OSM mape su otvorene pod ODbL licencom. Iz tog razloga ih je dozvoljeno distribuirati uz citiranje izvora.
 
 Konverzija u DXF je bila tiha patnja ali ako neko zeli da vrati iz CADa u GIS ili da uveze jos podataka u DXF moze da koristi ESRI 31277 koordinatni sistem.
 
